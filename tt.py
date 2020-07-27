@@ -242,8 +242,6 @@ while(True):
 	if count==9:
 		print("It's a tie")
 		break
-	
-	print(p1)
-	print(board)	
+		
 	
 turtle.mainloop()
